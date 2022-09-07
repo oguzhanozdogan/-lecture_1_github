@@ -1,2 +1,2 @@
 def mail():
-    print("wow")
+    print("new uppdate")
