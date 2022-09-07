@@ -1,2 +1,2 @@
 def mail():
-    print("wow")
+    print("yeni degisiklikler")
