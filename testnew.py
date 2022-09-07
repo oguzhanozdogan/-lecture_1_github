@@ -1,2 +1,2 @@
 def mail():
-    print("yeni degisiklikler")
+    print("new uppdate")
