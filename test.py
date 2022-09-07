@@ -1,2 +1,2 @@
 def mail():
-    print("wow in sending")
+    print("wow in")
